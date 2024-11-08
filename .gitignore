@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Config-Extractor/.vs/Config-Extractor
+/Config-Extractor/obj
+/Config-Extractor/bin/Debug/net8.0
